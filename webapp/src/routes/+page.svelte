@@ -117,11 +117,9 @@
 		if (devMode) setTestTrack();
 	});
 
-<!--
-	afterUpdate(() => {
-		if (currentTrack) createTrackQrCode(currentTrack);
-	});
--->
+	//afterUpdate(() => {
+		//if (currentTrack) createTrackQrCode(currentTrack);
+	//});
 </script>
 
 <main

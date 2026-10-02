@@ -117,11 +117,11 @@
 		if (devMode) setTestTrack();
 	});
 
-<!---
+<!--
 	afterUpdate(() => {
 		if (currentTrack) createTrackQrCode(currentTrack);
 	});
-</script> ->
+</script> -->
 
 <main
 	class="p-10 h-screen transition-all duration-500 {isTrackPlaying

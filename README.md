@@ -8,7 +8,7 @@ Display the currently playing Spotify track. Made for the Raspberry Pi.
 
 - ✅ Displays currently playing track
 - ✅ Suitable for communal areas where lots of different people connect to Raspotify daily
-- ✅ QR code takes you directly to the song on the Spotify app
+- (✅ QR code takes you directly to the song on the Spotify app) - removed
 - ✅ No login required
 
 ## Why Gatefold?

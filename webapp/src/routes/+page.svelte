@@ -118,7 +118,7 @@
 	});
 
 	//afterUpdate(() => {
-		//if (currentTrack) createTrackQrCode(currentTrack);
+	//if (currentTrack) createTrackQrCode(currentTrack);
 	//});
 </script>
 

@@ -33,9 +33,9 @@ Leave the other settings blank. Click 'Settings' on the app's page and make a no
 
 Click the 'Fork' button at the top of this page to copy this repo to your account.
 
-### 3. Create a site on Netlify
+### 3. Create a site on Netlify or Vercel
 
-Create an account on [Netlify](https://www.netlify.com/) if you don't already have one.
+Create an account on [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/) if you don't already have one.
 
 Login, go to the 'Team overview' tab, select 'Add new site' > 'Import an existing project' > 'Deploy with GitHub'. If this is your first Netlify site, it'll ask you to authorise your GitHub account. Once authorised, select your forked Gatefold project.
 

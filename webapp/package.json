@@ -37,6 +37,7 @@
 	"type": "module",
 	"dependencies": {
 		"@vercel/analytics": "^2.0.1",
+		"@vercel/speed-insights": "^2.1.0",
 		"colorthief": "^2.2.0",
 		"mqtt": "^4.3.7",
 		"nosleep.js": "^0.12.0",
